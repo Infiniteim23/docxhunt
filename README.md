@@ -43,7 +43,11 @@ This tool was created to scan DOCX files for sensitive information such as crede
 ### Install dependencies
 
 ```bash
-pip install requests python-docx
+git clone https://github.com/Infiniteim23/docxhunt.git
+cd docxhunt
+chmod u+x docxhunt.py
+pip install -r requirement.txt
+python3 docxhunt.py --help
 ```
 
 ---
@@ -53,25 +57,25 @@ pip install requests python-docx
 ### Basic scan
 
 ```bash
-python3 scanner.py -i urls.txt
+python3 docxhunt.py -i urls.txt
 ```
 
 ### Verbose mode
 
 ```bash
-python3 scanner.py -i urls.txt -v
+python3 docxhunt.py -i urls.txt -v
 ```
 
 ### Save output to file
 
 ```bash
-python3 scanner.py -i urls.txt -o report.txt
+python3 docxhunt.py -i urls.txt -o report.txt
 ```
 
 ### Save skipped files list
 
 ```bash
-python3 scanner.py -i urls.txt --skip-show
+python3 docxhunt.py -i urls.txt --skip-show
 ```
 
 ---
