@@ -1,9 +1,3 @@
-# DOCXHUNT Sensitive Data Scanner
-
-A **security-focused DOCX analysis tool** that scans Microsoft Word (.docx) files for **sensitive information**, secrets, and credentials while safely handling malformed or parser-hostile documents.
-
-This tool is designed for **security testing, audits, bug bounty research, and document hygiene checks**.
-
 <p align="center">
   <img src="assets/banner.png" alt="DOCX Sensitive Data Scanner" width="100%">
 </p>
@@ -11,6 +5,12 @@ This tool is designed for **security testing, audits, bug bounty research, and d
 <p align="center">
   🔍 Scan DOCX files for sensitive data • 🛡️ Safe parsing • 🚀 Security focused
 </p>
+
+# DOCXHUNT Sensitive Data Scanner
+
+A **security-focused DOCX analysis tool** that scans Microsoft Word (.docx) files for **sensitive information**, secrets, and credentials while safely handling malformed or parser-hostile documents.
+
+This tool is designed for **security testing, audits, bug bounty research, and document hygiene checks**.
 
 
 ## :rocket: What This Tool Does
