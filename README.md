@@ -4,6 +4,10 @@ A **security-focused DOCX analysis tool** that scans Microsoft Word (.docx) file
 
 This tool is designed for **security testing, audits, bug bounty research, and document hygiene checks**.
 
+<p align="center">
+  <img src="assets/banner.png" alt="DOCX Sensitive Data Scanner" width="100%">
+</p>
+
 ## :rocket: What This Tool Does
 
 * Downloads DOCX files from URLs
