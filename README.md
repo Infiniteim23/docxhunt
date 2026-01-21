@@ -7,6 +7,11 @@ This tool is designed for **security testing, audits, bug bounty research, and d
 <p align="center">
   <img src="assets/banner.png" alt="DOCX Sensitive Data Scanner" width="100%">
 </p>
+<h1 align="center">DOCX Sensitive Data Scanner</h1>
+<p align="center">
+  🔍 Scan DOCX files for sensitive data • 🛡️ Safe parsing • 🚀 Security focused
+</p>
+
 
 ## :rocket: What This Tool Does
 
